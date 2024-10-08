@@ -27,12 +27,10 @@ main {
   display: grid;
   grid-template-rows: 40% 1fr;
   box-shadow: 0 10px 20px -10px rgba(0, 0, 0, 0.75);
-  padding: 10px;
 }
 
 .pic {
   background-image: url(https://pbs.twimg.com/media/E6Rj1zHXIAMSlEg.jpg);
-  /* https://th.bing.com/th/id/R.19192eb0c1346247d8beb8f66d9290ac?rik=Zgv%2f54Cg6dHO2A&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f5%2f2%2f1245876-beautiful-geometric-abstract-wallpaper-3000x2000.jpg&ehk=sHm13t%2fqZ07JCyq7nFOH6IG0pSw2nraTiePdi4ecEok%3d&risl=&pid=ImgRaw&r=0 */
   background-position: center;
   background-size: cover;
   display: flex;
